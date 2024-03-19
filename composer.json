@@ -1,0 +1,17 @@
+{
+    "name": "codewisdoms/schema",
+    "description": "Run Laravel migrations in Codeigniter 3/4",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CodeWisdoms\\Schema\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "CodeWisdoms"
+        }
+    ],
+    "require": {}
+}
